@@ -12,7 +12,7 @@
 	<artifactId>spring5webapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring5webapp</name>
-	<description>refreshing for interview in 2025</description>
+	<description>refreshing for interview in Nov 2025</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
