@@ -7,9 +7,8 @@ on:
 
 jobs:
   build-Deploy:
-    name : Build and Deploy Spring boot for beginners
+    name : Build and Deploy Spring boot for webapp
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
